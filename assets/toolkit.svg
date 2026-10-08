@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="164" viewBox="0 0 960 164" role="img" aria-labelledby="title desc">
+  <title id="title">MonsterScript toolkit</title>
+  <desc id="desc">Lua, JavaScript, TypeScript, Python, Node.js, QBCore, Discord, Git</desc>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18">
+    <g fill="#16131F" stroke="#332A44">
+      <rect x="1" y="1" width="227" height="70" rx="12"/><rect x="245" y="1" width="227" height="70" rx="12"/>
+      <rect x="489" y="1" width="227" height="70" rx="12"/><rect x="733" y="1" width="226" height="70" rx="12"/>
+      <rect x="1" y="89" width="227" height="70" rx="12"/><rect x="245" y="89" width="227" height="70" rx="12"/>
+      <rect x="489" y="89" width="227" height="70" rx="12"/><rect x="733" y="89" width="226" height="70" rx="12"/>
+    </g>
+    <circle cx="29" cy="36" r="5" fill="#A78BFA"/><text x="49" y="42" fill="#ECE7F5">Lua</text>
+    <circle cx="273" cy="36" r="5" fill="#EED56C"/><text x="293" y="42" fill="#ECE7F5">JavaScript</text>
+    <circle cx="517" cy="36" r="5" fill="#75ADFA"/><text x="537" y="42" fill="#ECE7F5">TypeScript</text>
+    <circle cx="761" cy="36" r="5" fill="#80BACD"/><text x="781" y="42" fill="#ECE7F5">Python</text>
+    <circle cx="29" cy="124" r="5" fill="#9EC99A"/><text x="49" y="130" fill="#ECE7F5">Node.js</text>
+    <circle cx="273" cy="124" r="5" fill="#DB9B75"/><text x="293" y="130" fill="#ECE7F5">QBCore</text>
+    <circle cx="517" cy="124" r="5" fill="#9B9FFF"/><text x="537" y="130" fill="#ECE7F5">Discord</text>
+    <circle cx="761" cy="124" r="5" fill="#E89388"/><text x="781" y="130" fill="#ECE7F5">Git</text>
+  </g>
+</svg>
